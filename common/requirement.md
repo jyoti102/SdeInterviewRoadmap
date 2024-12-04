@@ -25,6 +25,12 @@ This knowledge forms the foundation of your professional skill set and aligns wi
 
 ---
 
+## Weekly Track:
+- **Mock Tests:** Practice solving problems in a timed environment to simulate actual test conditions.
+- **Mock Interviews:** Prepare for real-world interview scenarios through mock sessions to enhance confidence and performance.
+
+---
+
 ## Time Commitment:
 On average, aim to spend **1.5 to 2 hours daily** on these activities:
 - 20 minutes for TechStack Learning
