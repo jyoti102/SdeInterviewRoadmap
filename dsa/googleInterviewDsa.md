@@ -1,4 +1,4 @@
-# ✅ Google Interview DSA Prep – Java Developer (7+ YOE)
+# ✅ Google Interview DSA Prep – Java Developer (6-7+ YOE)
 
 ## 📅 Week 1–2: Arrays, Strings, Linked Lists
 - [ ] Two Sum – LeetCode #1
